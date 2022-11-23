@@ -1,0 +1,5 @@
+1. https://www.folkstalk.com/2022/09/node-js-request-download-file-with-code-examples-2.html
+
+https://github.com/amilanpathirana/ISODB
+
+npm run devStart

@@ -21,7 +21,7 @@ const request = http.get(url, (response)=> {
         var ext =file.split(".")
         console.log(ext[1])
         if(ext[1]=="csv"){
-            console.log("vvhjkhkhjkhk")
+            console.log("fghfhfghfhjkhk")
             fs.rename(file, 'newFile.csv', (err) => {
                 if (err) throw err;
                 console.log('Rename complete!');
